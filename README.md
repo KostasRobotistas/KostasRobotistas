@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KostasRobotistas
-- 👀 I’m a tech savy and interesting in robotics, computer vision and AI.
+- 👀 I’m a tech savvy and interested in robotics, computer vision and AI.
 - 🌱 I’m currently learning everything related to robotics, computer vision and AI.
 - 📫 How to reach me: you can't. 
 
